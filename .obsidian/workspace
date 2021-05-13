@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plugins.md",
+            "file": "Zotero.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins.md",
+                "file": "Zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +87,13 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
+    "Zotero.md",
     "Plugins.md",
-    "Appearance and snippets.md",
     "Pandoc and citations.md",
     "github.md",
+    "Appearance and snippets.md",
     "Untitled.md",
     "Pandoc.md",
-    "Zotero.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md"
