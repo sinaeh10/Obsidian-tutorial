@@ -1,13 +1,3 @@
-pandoc - converter between documents. Download pandoc and add pandoc plug in from github to obsidian
-
-zotero - add ons: mdnotes, zotfile. Show how to make annotations and how to add these to Obsidian
-
-github push pull system
-
-better bibtex plugin and cite key changes
-
-using Zettlr for final citations and bibliography. be sure to bib path and correct vault
-
 
 Add in github:
 
