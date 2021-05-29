@@ -1,23 +1,4 @@
-pandoc - converter between documents. Download pandoc and add pandoc plug in from github to obsidian
-
-zotero - add ons: mdnotes, zotfile. Show how to make annotations and how to add these to Obsidian
-
-github push pull system
-
-better bibtex plugin and cite key changes
-
-using Zettlr for final citations and bibliography. be sure to bib path and correct vault
-
-
-Add in github:
-
-Open github repositories in folder
-.gitignore -> .obsidian/ 
-Add plugin git
-
-
-
-Apps
+Plugins
 Obsidian git
 Checklist
 Zettelkasten prefixer
@@ -35,9 +16,6 @@ Templates
 Zettelkasten prefixer
 Citations
 
-Customization
-Theme plugins
-Add a snippets folder to your .obsidian folder to make additional changes (font, color, background, etc.). Snippet code can be found at: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978
 
 Things to still figure out:
 
@@ -45,11 +23,6 @@ How to push pull automatically
 How to link annotations directly to obsidian without having to copy paste from zotero
 How to coordinate zettlr and obsidian (and not letting zettlr adding changes to obsidian documents)
 
-
-organization methods:
-Number bins and johhny decimal system (with some exceptions :) )
-
-Making a folder with articles and naming them as cite keys. They can be linked to concepts and papers and once converting the document in zettlr, the link turns into the reference (through the citekey system). Just have to delete a bracket though....
 
 
 

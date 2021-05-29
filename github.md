@@ -1,0 +1,8 @@
+github push pull system
+
+
+Add in github:
+
+Open github repositories in folder
+.gitignore -> .obsidian/ 
+Add plugin git

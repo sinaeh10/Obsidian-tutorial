@@ -1,0 +1,1 @@
+zotero - add ons: mdnotes, zotfile. Show how to make annotations and how to add these to Obsidian
