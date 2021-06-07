@@ -1,4 +1,4 @@
-Obsidian-tutorial
+Obsidian-tutorial:
 A tutorial for Obsidian!
 
 Instructions:
