@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Community plugins and snippets.md",
-            "mode": "source"
+            "file": "4. Zotero.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Community plugins and snippets.md",
+                "file": "4. Zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
-    "3. Community plugins and snippets.md",
-    "6. github.md",
-    "5. Pandoc and Zettlr.md",
     "4. Zotero.md",
+    "3. Community plugins and snippets.md",
     "2. Appearance and core plugins.md",
     "1. Markdown and initial set-up.md",
-    "Set-up examples/Johnny deciment-Lotte.jpeg",
-    "Set-up examples/Appearance-Lotte.jpeg",
-    "Set-up examples/Screen Shot 2021-06-07 at 4.32.10 PM.jpeg",
-    "Screen Shot 2021-06-07 at 5.11.47 PM (2).jpeg"
+    "5. Pandoc and Zettlr.md",
+    "6. Graph view.md",
+    "@citekey.md",
+    "Untitled.md",
+    "6. github.md",
+    "README.md"
   ]
 }
