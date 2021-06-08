@@ -7,11 +7,8 @@
         "id": "3d4786bc616b0023",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Introduction to Obsidian.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,6 +76,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "76624dfd76b88a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379d7a2d922207b0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,15 +97,15 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
-    "1. Introduction to Obsidian.md",
-    "2. Appearance and core plugins.md",
-    "3. Community plugins and snippets.md",
+    "6. Graph view.md",
     "5. Pandoc and Zettlr.md",
     "4. Zotero.md",
-    "1. Markdown and initial set-up.md",
-    "6. Graph view.md",
+    "3. Community plugins and snippets.md",
+    "1. Introduction to Obsidian.md",
+    "2. Appearance and core plugins.md",
     "7. Github.md",
-    "README.md",
-    "Set-up examples/@citekey.md"
+    "Set-up examples/To-do list.md",
+    "Set-up examples/Linked note example.md",
+    "Set-up examples/Johnny deciment-Lotte.jpeg"
   ]
 }

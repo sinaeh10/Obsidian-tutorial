@@ -26,7 +26,7 @@ URI reference in Zotero: zotero://select/items/@BaileyEtAl2004
 
 > "Overall, these data suggested that foraging patterns of beavers are influenced by condensed-tannin concentration in the bark tissue of cottonwoods" ([Bailey et al 2004:606](zotero://open-pdf/library/items/G877MT4V?page=4))
 
-*Beavers are influenced by tannin concentrations. [[]] ([note on p.606](zotero://open-pdf/library/items/G877MT4V?page=4))*
+*Beavers are influenced by tannin concentrations. [[Linked note example]] ([note on p.606](zotero://open-pdf/library/items/G877MT4V?page=4))*
 
 
 
@@ -36,5 +36,5 @@ URI reference in Zotero: zotero://select/items/@BaileyEtAl2004
 
 
 
-
+---
 #zotero 
