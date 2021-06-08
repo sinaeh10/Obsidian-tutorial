@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Zotero.md",
-            "mode": "preview"
+            "file": "1. Introduction to Obsidian.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Zotero.md",
+                "file": "1. Introduction to Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
-    "4. Zotero.md",
-    "3. Community plugins and snippets.md",
+    "1. Introduction to Obsidian.md",
     "2. Appearance and core plugins.md",
-    "1. Markdown and initial set-up.md",
+    "3. Community plugins and snippets.md",
     "5. Pandoc and Zettlr.md",
+    "4. Zotero.md",
+    "1. Markdown and initial set-up.md",
     "6. Graph view.md",
-    "@citekey.md",
-    "Untitled.md",
-    "6. github.md",
-    "README.md"
+    "7. Github.md",
+    "README.md",
+    "Set-up examples/@citekey.md"
   ]
 }
