@@ -1,6 +1,6 @@
 # To-do list
 
-This is an example of a todo list using the Checklist plugin, as recommended in [[3. Community plugins and snippets]]. To activate the plugin, you will need to type hashtag-todo before your list. Then use the markdown code for checklists: - [ ]
+This is an example of a to-do list using the Checklist plugin, also mentioned in [[3. Community plugins and snippets]]. To activate a todo list in the plugin, you will need to type #todo before your list. Then use the markdown code for checklists: - [ ]
 
 #todo
 - [x] Complete the Obsidian tutorial

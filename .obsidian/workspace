@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Introduction to Obsidian.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to Obsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction to Obsidian.md"
+                "file": "README.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Introduction to Obsidian.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,15 +183,15 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
-    "1. Introduction to Obsidian.md",
-    "3. Community plugins and snippets.md",
-    "2. Appearance and core plugins.md",
-    "Set-up examples/Obsidian Appearance-1.jpeg",
-    "Set-up examples/Johnny deciment-Lotte.jpeg",
-    "Set-up examples/Obsidian Appearance-Lotte.jpeg",
-    "4. Zotero.md",
-    "5. Pandoc and Zettlr.md",
+    "README.md",
+    "Set-up examples/Linked note example.md",
+    "Set-up examples/@citekey.md",
+    "Set-up examples/To-do list.md",
     "7. Github.md",
-    "6. Graph view.md"
+    "6. Graph view.md",
+    "5. Pandoc and Zettlr.md",
+    "4. Zotero.md",
+    "3. Community plugins and snippets.md",
+    "2. Appearance and core plugins.md"
   ]
 }

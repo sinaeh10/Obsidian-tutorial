@@ -1,4 +1,4 @@
-# (This is just an example of an literature note entry with annotations)
+==This is an example of a Zotero literature note entry with annotations==
 ---
 
 # Literature note:

@@ -1,4 +1,5 @@
-# (This is just an example of a note link)
+==This is an example of a note that has been linked==
+---
 
 ## Note description:
 This is just a note that is linked with an annotation from an article. Beavers are cool :) 
@@ -6,10 +7,11 @@ I read about them in [[@citekey]]
 
 ## Examples:
 1. Beavers don't like tannin  [[@citekey]]
+2. Other animals also don't like tannin.
 
 
 ## Articles relevant:
-[[@citekey]] - something about beavers
+[[@citekey]] - This is about beavers and tannin
 
 
 
