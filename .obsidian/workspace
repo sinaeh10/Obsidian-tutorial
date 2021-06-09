@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "1. Introduction to Obsidian.md",
+            "mode": "source"
           }
         }
       }
@@ -58,7 +58,7 @@
             "id": "379d7a2d922207b0",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "empty",
               "state": {}
             }
           }
@@ -75,7 +75,6 @@
       {
         "id": "a03646d2fd8e1d73",
         "type": "tabs",
-        "dimension": 54.57286432160804,
         "children": [
           {
             "id": "df58ea7ca942afa6",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Introduction to Obsidian.md"
               }
             }
           }
@@ -109,7 +108,6 @@
       {
         "id": "e07d671e68066a5e",
         "type": "tabs",
-        "dimension": 45.42713567839196,
         "children": [
           {
             "id": "55d2a532e716372a",
@@ -117,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "1. Introduction to Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,10 +167,24 @@
                   "repelStrength": 11.6268382352941,
                   "linkStrength": 0.373988970588235,
                   "linkDistance": 179,
-                  "scale": 0.844556370304816,
+                  "scale": 0.6105983618538441,
                   "close": true
                 }
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "49be1a663f874c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3301e9092a4a69",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -183,15 +195,15 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
-    "README.md",
-    "Set-up examples/Linked note example.md",
-    "Set-up examples/@citekey.md",
-    "Set-up examples/To-do list.md",
-    "7. Github.md",
+    "1. Introduction to Obsidian.md",
+    "Pasted image 20210609164716.png",
+    "7. github.md",
     "6. Graph view.md",
     "5. Pandoc and Zettlr.md",
     "4. Zotero.md",
     "3. Community plugins and snippets.md",
-    "2. Appearance and core plugins.md"
+    "2. Appearance and core plugins.md",
+    "README.md",
+    "Set-up examples/Linked note example.md"
   ]
 }
