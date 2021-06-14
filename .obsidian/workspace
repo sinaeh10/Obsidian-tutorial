@@ -7,8 +7,11 @@
         "id": "3d4786bc616b0023",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -122,6 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,15 +201,15 @@
   },
   "active": "3d4786bc616b0023",
   "lastOpenFiles": [
-    "3. Templates/3.1 Overview.md",
-    "3. Templates/3.1 Wiki template.md",
-    "3. Templates/3.3 Overview.md",
-    "3. Templates/3.4 Chapter template.md",
-    "3. Templates/3.1 Chapter template.md",
-    "3. Templates/3.4 Wiki template.md",
-    "3. Templates/3.2 Concept template.md",
-    "2. Set-up examples/2.8 Jugglr.jpg",
-    "2. Set-up examples/2.7 Johnny decimal-2.jpg",
-    "2. Set-up examples/2.6 Johnny decimal-1.jpeg"
+    "README.md",
+    "1. Introduction to obsidian/1.2 Appearance and core plugins.md",
+    "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
+    "1. Introduction to obsidian/1.5 Zotero.md",
+    "1. Introduction to obsidian/1.6 Pandoc and Zettlr.md",
+    "1. Introduction to obsidian/1.4 Graph view.md",
+    "1. Introduction to obsidian/1.3 Community plugins and snippets.md",
+    "2. Set-up examples/2.8 Graph View 1.jpeg",
+    "2. Set-up examples/2.9 Graph view 2.jpg",
+    "2. Set-up examples/2.9 Graph view colors.jpeg"
   ]
 }
