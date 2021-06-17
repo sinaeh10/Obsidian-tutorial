@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3d4786bc616b0023",
+        "id": "e5223c769d0898f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379
   },
   "right": {
     "id": "827a7839d66c3bf8",
@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e07d671e68066a5e",
@@ -206,17 +207,17 @@
     "direction": "horizontal",
     "width": 332
   },
-  "active": "3d4786bc616b0023",
+  "active": "e5223c769d0898f9",
   "lastOpenFiles": [
     "1. Introduction to obsidian/1.6 Zotero.md",
     "1. Introduction to obsidian/1.7 Pandoc and Zettlr.md",
-    "1. Introduction to obsidian/1.8 Github.md",
-    "2. Exercises/1.6 Exercise.md",
-    "2. Exercises/@.md",
-    "1. Introduction to obsidian/1.5 Graph view.md",
-    "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
-    "1. Introduction to obsidian/1.3 Appearance and core plugins.md",
+    "2. Exercises/1.2 Exercise.md",
     "1. Introduction to obsidian/1.2 Markdown Syntax.md",
-    "1. Introduction to obsidian/1.1 Introduction to Obsidian.md"
+    "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
+    "2. Exercises/ecosystem services.md",
+    "1. Introduction to obsidian/1.5 Graph view.md",
+    "1. Introduction to obsidian/1.3 Appearance and core plugins.md",
+    "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
+    "2. Exercises/1.3 Exercise.md"
   ]
 }
