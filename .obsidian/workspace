@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "463c9880c2c5112a",
+    "id": "996ebfc64fa791e8",
     "type": "split",
     "children": [
       {
-        "id": "3d4786bc616b0023",
+        "id": "87e30eb3987c8860",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3c6324695bdd70e0",
+    "id": "dda1fa30d0410b6b",
     "type": "split",
     "children": [
       {
-        "id": "d775b19131e600c7",
+        "id": "761ff32bad589e98",
         "type": "tabs",
         "children": [
           {
-            "id": "df036a8d347c2743",
+            "id": "c8636896675e501c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,32 +31,18 @@
             }
           },
           {
-            "id": "f1f5367227695241",
+            "id": "7da7afaa16f7913d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "exercise",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ea237431b220fe8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "379d7a2d922207b0",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           }
         ]
@@ -69,21 +52,27 @@
     "width": 300
   },
   "right": {
-    "id": "827a7839d66c3bf8",
+    "id": "cf8a42b19dc3470f",
     "type": "split",
     "children": [
       {
-        "id": "a03646d2fd8e1d73",
+        "id": "9ab0f4ae8b778d7c",
         "type": "tabs",
-        "dimension": 54.57286432160804,
         "children": [
           {
-            "id": "df58ea7ca942afa6",
+            "id": "f48c51f648621b52",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4f48a67f911e778",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +84,7 @@
             }
           },
           {
-            "id": "6e7c3b4b177fff14",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1. Introduction to obsidian/1.1 Introduction to Obsidian.md"
-              }
-            }
-          },
-          {
-            "id": "0ef4d10c78a9ed5f",
+            "id": "2294a393c26352f1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,102 +93,22 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e07d671e68066a5e",
-        "type": "tabs",
-        "dimension": 45.42713567839196,
-        "children": [
+          },
           {
-            "id": "55d2a532e716372a",
+            "id": "e1e4f98d994867bc",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#appearanceplugins",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#zotero",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    },
-                    {
-                      "query": "tag:#github",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6577366
-                      }
-                    },
-                    {
-                      "query": "tag:#graph",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    },
-                    {
-                      "query": "path:Templates",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084269
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -0.7,
-                  "nodeSizeMultiplier": 1.37544117647059,
-                  "lineSizeMultiplier": 3.04135110294118,
-                  "collapse-forces": false,
-                  "centerStrength": 0.338235294117647,
-                  "repelStrength": 11.6268382352941,
-                  "linkStrength": 0.373988970588235,
-                  "linkDistance": 179,
-                  "scale": 0.844556370304816,
-                  "close": false
-                }
-              }
+              "type": "outline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3d4786bc616b0023",
-  "lastOpenFiles": [
-    "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
-    "3. Templates/3.1 Overview.md",
-    "3. Community plugins and snippets.md",
-    "2. Appearance and core plugins.md",
-    "1. Introduction to Obsidian.md",
-    "README.md",
-    "Set-up examples/Linked note example.md",
-    "Set-up examples/@citekey.md",
-    "Set-up examples/To-do list.md",
-    "7. Github.md"
-  ]
+  "active": "87e30eb3987c8860",
+  "lastOpenFiles": []
 }
