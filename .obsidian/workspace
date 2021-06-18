@@ -1,15 +1,19 @@
 {
   "main": {
-    "id": "463c9880c2c5112a",
+    "id": "50e3490bb4c5bc93",
     "type": "split",
     "children": [
       {
-        "id": "3d4786bc616b0023",
+        "id": "0d6f23b61d268caf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "1. Introduction to Obsidian.md",
+=======
+            "file": "README.md",
+>>>>>>> daniel-developer
             "mode": "source"
           }
         }
@@ -18,15 +22,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c6324695bdd70e0",
+    "id": "3856e02fdf380848",
     "type": "split",
     "children": [
       {
-        "id": "d775b19131e600c7",
+        "id": "101708bcbfdf657a",
         "type": "tabs",
         "children": [
           {
-            "id": "df036a8d347c2743",
+            "id": "9c98c4133ef1234a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +38,7 @@
             }
           },
           {
-            "id": "f1f5367227695241",
+            "id": "bbd4ac404b685321",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,6 +53,7 @@
             }
           }
         ]
+<<<<<<< HEAD
       },
       {
         "id": "9ea237431b220fe8",
@@ -63,21 +68,31 @@
             }
           }
         ]
+=======
+>>>>>>> daniel-developer
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "827a7839d66c3bf8",
+    "id": "7cd842161eb2317b",
     "type": "split",
     "children": [
       {
-        "id": "a03646d2fd8e1d73",
+        "id": "d2ed8b735e46091b",
         "type": "tabs",
         "children": [
           {
-            "id": "df58ea7ca942afa6",
+            "id": "2f97ea0265467e41",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b1aec6149555623",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -94,11 +109,12 @@
             }
           },
           {
-            "id": "6e7c3b4b177fff14",
+            "id": "7721a3dafcc4d334",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
+<<<<<<< HEAD
                 "file": "1. Introduction to Obsidian.md"
               }
             }
@@ -109,12 +125,20 @@
         "id": "e07d671e68066a5e",
         "type": "tabs",
         "children": [
+=======
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+>>>>>>> daniel-developer
           {
-            "id": "55d2a532e716372a",
+            "id": "ecad998a65a81bf4",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "1. Introduction to Obsidian.md",
                 "options": {
                   "collapse-filter": false,
@@ -170,6 +194,9 @@
                   "scale": 0.6105983618538441,
                   "close": true
                 }
+=======
+                "file": "README.md"
+>>>>>>> daniel-developer
               }
             }
           }
@@ -191,10 +218,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 300
   },
-  "active": "3d4786bc616b0023",
+  "active": "0d6f23b61d268caf",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "1. Introduction to Obsidian.md",
     "Pasted image 20210609164716.png",
     "7. github.md",
@@ -205,5 +233,17 @@
     "2. Appearance and core plugins.md",
     "README.md",
     "Set-up examples/Linked note example.md"
+=======
+    "README.md",
+    "4. Templates/4.5 Zettelkasten template.md",
+    "4. Templates/4.4 Chapter template.md",
+    "4. Templates/4.3 Wiki template.md",
+    "4. Templates/4.2 Concept template.md",
+    "4. Templates/4.1 Overview.md",
+    "3. Set-up examples/3.4 Obsidian Appearance-1.jpeg",
+    "2. Exercises/1.6 Exercise.md",
+    "2. Exercises/1.5 Exercise.md",
+    "2. Exercises/1.4 Exercise.md"
+>>>>>>> daniel-developer
   ]
 }
