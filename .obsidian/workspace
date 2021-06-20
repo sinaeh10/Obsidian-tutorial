@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "50e3490bb4c5bc93",
+    "id": "9839e3f96c6634bc",
     "type": "split",
     "children": [
       {
-        "id": "0d6f23b61d268caf",
+        "id": "df3759c5220f7055",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "1. Introduction to Obsidian.md",
-=======
-            "file": "README.md",
->>>>>>> daniel-developer
+            "file": "1. Introduction to obsidian/1.6 Zotero.md",
             "mode": "source"
           }
         }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3856e02fdf380848",
+    "id": "906df5070f0c20b0",
     "type": "split",
     "children": [
       {
-        "id": "101708bcbfdf657a",
+        "id": "9818b69a42baf5cf",
         "type": "tabs",
         "children": [
           {
-            "id": "9c98c4133ef1234a",
+            "id": "1cbc75ac3f79b641",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +34,7 @@
             }
           },
           {
-            "id": "bbd4ac404b685321",
+            "id": "00f4b4cdf283f220",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,51 +49,26 @@
             }
           }
         ]
-<<<<<<< HEAD
-      },
-      {
-        "id": "9ea237431b220fe8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "379d7a2d922207b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-=======
->>>>>>> daniel-developer
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "7cd842161eb2317b",
+    "id": "28be41cdd70c09c5",
     "type": "split",
     "children": [
       {
-        "id": "d2ed8b735e46091b",
+        "id": "ef5c79a958cf3f98",
         "type": "tabs",
         "children": [
           {
-            "id": "2f97ea0265467e41",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b1aec6149555623",
+            "id": "42e49603f0c53d89",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to Obsidian.md",
+                "file": "1. Introduction to obsidian/1.6 Zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,112 +78,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "7721a3dafcc4d334",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-<<<<<<< HEAD
-                "file": "1. Introduction to Obsidian.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e07d671e68066a5e",
-        "type": "tabs",
-        "children": [
-=======
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
->>>>>>> daniel-developer
-          {
-            "id": "ecad998a65a81bf4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "1. Introduction to Obsidian.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#appearanceplugins",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "tag:#zotero",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    },
-                    {
-                      "query": "tag:#github",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6577366
-                      }
-                    },
-                    {
-                      "query": "tag:#graph",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -0.7,
-                  "nodeSizeMultiplier": 1.37544117647059,
-                  "lineSizeMultiplier": 3.04135110294118,
-                  "collapse-forces": false,
-                  "centerStrength": 0.338235294117647,
-                  "repelStrength": 11.6268382352941,
-                  "linkStrength": 0.373988970588235,
-                  "linkDistance": 179,
-                  "scale": 0.6105983618538441,
-                  "close": true
-                }
-=======
-                "file": "README.md"
->>>>>>> daniel-developer
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "49be1a663f874c96",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b3301e9092a4a69",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
           }
         ]
       }
@@ -220,30 +85,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0d6f23b61d268caf",
+  "active": "df3759c5220f7055",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "1. Introduction to Obsidian.md",
-    "Pasted image 20210609164716.png",
-    "7. github.md",
-    "6. Graph view.md",
-    "5. Pandoc and Zettlr.md",
-    "4. Zotero.md",
-    "3. Community plugins and snippets.md",
-    "2. Appearance and core plugins.md",
+    "1. Introduction to obsidian/1.6 Zotero.md",
+    "2. Exercises/1.2 Exercise.md",
+    "1. Introduction to obsidian/1.7 Pandoc and Zettlr.md",
     "README.md",
-    "Set-up examples/Linked note example.md"
-=======
-    "README.md",
-    "4. Templates/4.5 Zettelkasten template.md",
-    "4. Templates/4.4 Chapter template.md",
-    "4. Templates/4.3 Wiki template.md",
-    "4. Templates/4.2 Concept template.md",
-    "4. Templates/4.1 Overview.md",
-    "3. Set-up examples/3.4 Obsidian Appearance-1.jpeg",
-    "2. Exercises/1.6 Exercise.md",
-    "2. Exercises/1.5 Exercise.md",
-    "2. Exercises/1.4 Exercise.md"
->>>>>>> daniel-developer
+    "1. Introduction to obsidian/1.1 Introduction to Obsidian.md"
   ]
 }
