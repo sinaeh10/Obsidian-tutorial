@@ -3,5 +3,6 @@
   "communityPluginSortOrder": "release",
   "newFileLocation": "folder",
   "newFileFolderPath": "2. Exercises",
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false
 }

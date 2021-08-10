@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "9839e3f96c6634bc",
+    "id": "463c9880c2c5112a",
     "type": "split",
     "children": [
       {
-        "id": "df3759c5220f7055",
+        "id": "e5223c769d0898f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "1. Introduction to obsidian/1.6 Zotero.md",
-=======
-            "file": "5. Pandoc and Zettlr.md",
->>>>>>> Stashed changes
+            "file": "1. Introduction to obsidian/1.3 Core plugins.md",
             "mode": "source"
           }
         }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "906df5070f0c20b0",
+    "id": "3c6324695bdd70e0",
     "type": "split",
     "children": [
       {
-        "id": "9818b69a42baf5cf",
+        "id": "d775b19131e600c7",
         "type": "tabs",
         "children": [
           {
-            "id": "1cbc75ac3f79b641",
+            "id": "df036a8d347c2743",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,12 +34,12 @@
             }
           },
           {
-            "id": "00f4b4cdf283f220",
+            "id": "f1f5367227695241",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#coreplugins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,30 +49,41 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "28be41cdd70c09c5",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "ef5c79a958cf3f98",
+        "id": "9ea237431b220fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "42e49603f0c53d89",
+            "id": "379d7a2d922207b0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379
+  },
+  "right": {
+    "id": "827a7839d66c3bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03646d2fd8e1d73",
+        "type": "tabs",
+        "dimension": 54.57286432160804,
+        "children": [
+          {
+            "id": "df58ea7ca942afa6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "1. Introduction to obsidian/1.6 Zotero.md",
-=======
-                "file": "5. Pandoc and Zettlr.md",
->>>>>>> Stashed changes
+                "file": "1. Introduction to obsidian/1.3 Core plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +93,6 @@
                 "unlinkedCollapsed": true
               }
             }
-<<<<<<< Updated upstream
-=======
           },
           {
             "id": "6e7c3b4b177fff14",
@@ -95,11 +100,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Pandoc and Zettlr.md"
+                "file": "1. Introduction to obsidian/1.3 Core plugins.md"
+              }
+            }
+          },
+          {
+            "id": "0ef4d10c78a9ed5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e07d671e68066a5e",
@@ -112,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5. Pandoc and Zettlr.md",
+                "file": "1. Introduction to obsidian/1.3 Core plugins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,6 +169,20 @@
                         "a": 1,
                         "rgb": 6084188
                       }
+                    },
+                    {
+                      "query": "path:Templates",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084269
+                      }
+                    },
+                    {
+                      "query": "path:\"2. Exercises\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6073814
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -164,38 +195,29 @@
                   "repelStrength": 11.6268382352941,
                   "linkStrength": 0.373988970588235,
                   "linkDistance": 179,
-                  "scale": 0.844556370304816,
+                  "scale": 0.6532872435417064,
                   "close": true
                 }
               }
             }
->>>>>>> Stashed changes
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332
   },
-  "active": "df3759c5220f7055",
+  "active": "e5223c769d0898f9",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "1. Introduction to obsidian/1.6 Zotero.md",
-    "2. Exercises/1.2 Exercise.md",
-    "1. Introduction to obsidian/1.7 Pandoc and Zettlr.md",
-    "README.md",
-    "1. Introduction to obsidian/1.1 Introduction to Obsidian.md"
-=======
-    "5. Pandoc and Zettlr.md",
-    "4. Zotero.md",
-    "Set-up examples/To-do list.md",
-    "Set-up examples/Linked note example.md",
-    "Set-up examples/@citekey.md",
-    "7. github.md",
-    "README.md",
-    "7. Github.md",
-    "6. Graph view.md",
-    "3. Community plugins and snippets.md"
->>>>>>> Stashed changes
+    "1. Introduction to obsidian/1.3 Core plugins.md",
+    "1. Introduction to obsidian/1.5 Appearance.md",
+    "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
+    "3. Set-up examples/3.3 @citekey.md",
+    "2. Exercises/1.7 Exercise.md",
+    "2. Exercises/1.6 Exercise.md",
+    "2. Exercises/1.5 Exercise.md",
+    "2. Exercises/1.4 Exercise.md",
+    "2. Exercises/1.3 Exercise.md",
+    "2. Exercises/1.2 Exercise.md"
   ]
 }
