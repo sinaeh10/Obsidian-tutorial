@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "1. Introduction to obsidian/1.6 Zotero.md",
+=======
+            "file": "5. Pandoc and Zettlr.md",
+>>>>>>> Stashed changes
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "1. Introduction to obsidian/1.6 Zotero.md",
+=======
+                "file": "5. Pandoc and Zettlr.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +86,90 @@
                 "unlinkedCollapsed": true
               }
             }
+<<<<<<< Updated upstream
+=======
+          },
+          {
+            "id": "6e7c3b4b177fff14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Pandoc and Zettlr.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e07d671e68066a5e",
+        "type": "tabs",
+        "dimension": 45.42713567839196,
+        "children": [
+          {
+            "id": "55d2a532e716372a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "5. Pandoc and Zettlr.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#appearanceplugins",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "tag:#zotero",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "tag:#github",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6577366
+                      }
+                    },
+                    {
+                      "query": "tag:#graph",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 1.37544117647059,
+                  "lineSizeMultiplier": 3.04135110294118,
+                  "collapse-forces": false,
+                  "centerStrength": 0.338235294117647,
+                  "repelStrength": 11.6268382352941,
+                  "linkStrength": 0.373988970588235,
+                  "linkDistance": 179,
+                  "scale": 0.844556370304816,
+                  "close": true
+                }
+              }
+            }
+>>>>>>> Stashed changes
           }
         ]
       }
@@ -87,10 +179,23 @@
   },
   "active": "df3759c5220f7055",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "1. Introduction to obsidian/1.6 Zotero.md",
     "2. Exercises/1.2 Exercise.md",
     "1. Introduction to obsidian/1.7 Pandoc and Zettlr.md",
     "README.md",
     "1. Introduction to obsidian/1.1 Introduction to Obsidian.md"
+=======
+    "5. Pandoc and Zettlr.md",
+    "4. Zotero.md",
+    "Set-up examples/To-do list.md",
+    "Set-up examples/Linked note example.md",
+    "Set-up examples/@citekey.md",
+    "7. github.md",
+    "README.md",
+    "7. Github.md",
+    "6. Graph view.md",
+    "3. Community plugins and snippets.md"
+>>>>>>> Stashed changes
   ]
 }
