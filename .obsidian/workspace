@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -210,8 +210,8 @@
   "active": "e5223c769d0898f9",
   "lastOpenFiles": [
     "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
-    "2. Exercises/1.7 Exercise.md",
     "1. Introduction to obsidian/1.7 Zotero.md",
+    "2. Exercises/1.7 Exercise.md",
     "1. Introduction to obsidian/1.2 Markdown Syntax.md",
     "1. Introduction to obsidian/1.9 GitHub.md",
     "1. Introduction to obsidian/1.6 Graph view.md",
