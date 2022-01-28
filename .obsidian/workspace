@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
+            "file": "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
+                "file": "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md"
+                "file": "1. Introduction to obsidian/1.4 Community plugins and snippets.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
+                "file": "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
+                "file": "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +227,8 @@
   },
   "active": "e5223c769d0898f9",
   "lastOpenFiles": [
-    "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
     "1. Introduction to obsidian/1.4 Community plugins and snippets.md",
+    "1. Introduction to obsidian/1.8 Pandoc and Zettlr.md",
     "1. Introduction to obsidian/1.1 Introduction to Obsidian.md",
     "1. Introduction to obsidian/2.0 Rstudio workflow.md",
     "1. Introduction to obsidian/1.9 GitHub.md",
